@@ -1,2 +1,2 @@
-# simple_page
+# studyprogress
 git/html/css練習用のファイルです。
